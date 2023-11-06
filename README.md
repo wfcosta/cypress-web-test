@@ -1,5 +1,5 @@
 
-# cypress-web-test
+# cypress-web-test 
 [![cypress-web-test](https://github.com/rlhorochovec/cypress-web-test/actions/workflows/ci.yml/badge.svg)](https://github.com/rlhorochovec/cypress-web-test/actions/workflows/ci.yml)
 
 Projeto de automação de testes web utilizando Cypress, executando via GitHub Actions e publicando o relatório da execução no GitHub Pages.
